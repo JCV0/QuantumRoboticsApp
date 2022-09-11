@@ -5,8 +5,14 @@
       <map>
         <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/drawable/bg_jointslay.xml" value="0.22" />
         <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/drawable/down.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/activity_configurations.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/activity_configurations2.xml" value="0.1796875" />
         <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/dropdown.xml" value="0.1" />
+        <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/fragment_configurations2.xml" value="0.1" />
+        <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/fragment_frag_s_s_h.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/fragment_settings.xml" value="0.22" />
+        <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/fragment_ssh.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/joints_layout.xml" value="0.8333333333333334" />
         <entry key="..\:/Users/Jorge/Desktop/Code/QuantumRobotics/app/src/main/res/layout/spinner_text.xml" value="0.1" />
       </map>
